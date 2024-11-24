@@ -1,6 +1,6 @@
 import { Box, Code, Container, HStack, Stack, Text } from "@chakra-ui/react";
 import type { Route } from "./+types/home";
-import { Avatar } from "~/components/ui/avatar";
+import { Avatar } from "../components/ui/avatar";
 import { useEffect } from "react";
 import { useRevalidator } from "react-router";
 
